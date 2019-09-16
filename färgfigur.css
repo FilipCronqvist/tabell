@@ -1,0 +1,21 @@
+table,th,td{
+	border: 1px solid black; 
+	border-collapse: collapse;
+}
+
+
+.aqua {
+background-color:aqua; width:100px; height:100px; 
+}
+.red {
+background-color:red; width:100px; height:100px;
+}
+.yellow {
+background-color:yellow; width:200px; height:100px;
+}
+.black {
+background-color:black; width:100px; height:100px;
+}
+.green {
+background-color:green; width:200px; height:100px;
+}
